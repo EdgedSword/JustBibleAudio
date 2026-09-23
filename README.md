@@ -34,4 +34,4 @@ Bible, generated locally and checked by ear book by book.
 
 The King James Bible is public domain in the United States. In the United
 Kingdom it remains under perpetual Crown patent held by Cambridge University
-Press. These recordings are shared for use with the JustBible app.
+Press. These recordings are shared for use with the KJV Only Bible app.
